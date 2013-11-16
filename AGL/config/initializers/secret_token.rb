@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-AGL::Application.config.secret_token = 'ffe7f8912aa37cbbde8d1d2f2d6530c0367b5971e85a4f3d5c05ceebb85f67425dbc68de50edb62ee8bd7ff7f494b7b5ba18cc31120dfdff82d616acbf1b0c87'
+AGL::Application.config.secret_token = 'd1aa4856e331a64f6d1473cc7ad0082b6f0b98103755a81da200875d0b95a32d66a92f64a8d51ffa2d719e51aea487e70c1aaae5f2b787f8a649d59290d3aa9a'
